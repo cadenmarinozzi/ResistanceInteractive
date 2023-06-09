@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ResistanceInteractive/static/css/main.e3f95e32.css",
-    "main.js": "/ResistanceInteractive/static/js/main.e88263f6.js",
+    "main.js": "/ResistanceInteractive/static/js/main.e0fe1439.js",
     "static/media/MadeBlack.otf": "/ResistanceInteractive/static/media/MadeBlack.e937794806322c7696ba.otf",
     "index.html": "/ResistanceInteractive/index.html",
     "main.e3f95e32.css.map": "/ResistanceInteractive/static/css/main.e3f95e32.css.map",
-    "main.e88263f6.js.map": "/ResistanceInteractive/static/js/main.e88263f6.js.map"
+    "main.e0fe1439.js.map": "/ResistanceInteractive/static/js/main.e0fe1439.js.map"
   },
   "entrypoints": [
     "static/css/main.e3f95e32.css",
-    "static/js/main.e88263f6.js"
+    "static/js/main.e0fe1439.js"
   ]
 }
